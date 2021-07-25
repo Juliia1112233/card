@@ -15,7 +15,7 @@ body {
     background: linear-gradient(to bottom left, rgb(216, 131, 34), rgb(235, 120, 129) );
     box-sizing: border-box;
     position: relative;
-    border-radius: 10px;
+    border-radius: 15px;
     overflow: hidden;
 }
 .infoText {
